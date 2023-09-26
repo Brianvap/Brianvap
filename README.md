@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Brian. 
+
+### I am a Senior Data Analytics Major at Denison University
 
 <!--
 **Brianvap/Brianvap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
